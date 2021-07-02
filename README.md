@@ -1,2 +1,2 @@
 # hello-world
-this is the hello world tezt
+this is the hello world test
